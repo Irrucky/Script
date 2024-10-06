@@ -57,11 +57,11 @@ jobs:
         
         # Reject.list
         {
-            curl -L "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/rules/Ads.list"
+            curl -L "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/rules/adrules.list"
             echo ""
-            curl -L "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules-surge.conf"
-            echo ""
-            curl -L "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt"
+            curl -L "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list"
+            # echo ""
+            # curl -L "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt"
         } > Tool-repo/Surge/rules/Reject.list
         
         # Global.list
