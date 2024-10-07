@@ -1,5 +1,5 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 685
+# TOTAL: 678
 DOMAIN,1010pic.com
 DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
 DOMAIN,16dd-advertise-1252317822.image.myqcloud.com
@@ -193,7 +193,6 @@ DOMAIN,bianxian.com
 DOMAIN,bingads.microsoft.com
 DOMAIN,bj.ad.track.66mobi.com
 DOMAIN,books-analytics-events.apple.com
-DOMAIN,bossaudioandcomic-1252317822.image.myqcloud.com
 DOMAIN,bsrv.qq.com
 DOMAIN,bugly.qq.com
 DOMAIN,business-api.tiktok.com
@@ -224,12 +223,6 @@ DOMAIN,collect.kugou.com
 DOMAIN,commdata.v.qq.com
 DOMAIN,config.chsmarttv.com
 DOMAIN,config.unityads.unity3d.com
-DOMAIN,conn-service-cn-03.allawntech.com
-DOMAIN,conn-service-cn-04.allawntech.com
-DOMAIN,conn-service-cn-05.allawntech.com
-DOMAIN,conn-service-in-03.allawnos.com
-DOMAIN,conn-service-in-04.allawnos.com
-DOMAIN,conn-service-in-05.allawnos.com
 DOMAIN,cpro.baidustatic.com
 DOMAIN,crashlytics.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
