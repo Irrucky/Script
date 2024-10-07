@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8650
+# TOTAL: 8643
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,-ad.byteoversea.com
 DOMAIN-KEYWORD,-cdn2.adtng.com
@@ -1825,7 +1825,6 @@ DOMAIN-SUFFIX,bootcdn.net
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,boplgt.icu
 DOMAIN-SUFFIX,boqsxdpx.xyz
-DOMAIN-SUFFIX,bossaudioandcomic-1252317822.image.myqcloud.com
 DOMAIN-SUFFIX,bowoprf.icu
 DOMAIN-SUFFIX,boxshows.com
 DOMAIN-SUFFIX,boxwcr.icu
@@ -2218,12 +2217,6 @@ DOMAIN-SUFFIX,config-junion.jpush.cn
 DOMAIN-SUFFIX,config.chsmarttv.com
 DOMAIN-SUFFIX,config.jpush.cn
 DOMAIN-SUFFIX,config.unityads.unity3d.com
-DOMAIN-SUFFIX,conn-service-cn-03.allawntech.com
-DOMAIN-SUFFIX,conn-service-cn-04.allawntech.com
-DOMAIN-SUFFIX,conn-service-cn-05.allawntech.com
-DOMAIN-SUFFIX,conn-service-in-03.allawnos.com
-DOMAIN-SUFFIX,conn-service-in-04.allawnos.com
-DOMAIN-SUFFIX,conn-service-in-05.allawnos.com
 DOMAIN-SUFFIX,connectreadoasis.com
 DOMAIN-SUFFIX,connexity.net
 DOMAIN-SUFFIX,conv.youdao.com
